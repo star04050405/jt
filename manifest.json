@@ -1,0 +1,12 @@
+{
+  "name": "jt. 井塘古村导游词背诵室",
+  "short_name": "背诵室",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F1EAD9",
+  "theme_color": "#8A6A2C",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
